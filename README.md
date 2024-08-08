@@ -23,8 +23,8 @@
 
 ## 📫 Contact Me
 
-- 📧 Email: [your.email@example.com](mailto:sanatankisku753@gmail.com)
-- 💼 LinkedIn: [linkedin.com/in/yourprofile]((https://www.linkedin.com/in/sanatan-kisku-773510250/))
+- 📧 Email: [sanatankisku753@gmail.com](mailto:sanatankisku753@gmail.com)
+- 💼 LinkedIn: [linkedin.com/in/sanatan-kisku-773510250/]((https://www.linkedin.com/in/sanatan-kisku-773510250/))
 
 ## 😄 Pronouns
 
@@ -33,8 +33,6 @@
 ## ⚡ Fun Fact
 
 - 📖 I enjoy reading **light novels** and **visual novels** in my free time.
-- 🐱‍👤 I have a **Lucario** in Pokémon GO that I caught in **Rourkela, Odisha, India**.
-
 ---
 
 ![Footer Image](https://via.placeholder.com/800x100.png?text=Thank+You+for+Visiting+My+Profile!)
