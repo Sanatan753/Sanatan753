@@ -24,7 +24,7 @@
 ## 📫 Contact Me
 
 - 📧 Email: [sanatankisku753@gmail.com](mailto:sanatankisku753@gmail.com)
-- 💼 LinkedIn: [linkedin.com/in/sanatan-kisku-773510250/]((https://www.linkedin.com/in/sanatan-kisku-773510250/))
+- 💼 LinkedIn: [linkedin.com/in/sanatan-kisku-773510250/](https://www.linkedin.com/in/sanatan-kisku-773510250/)
 
 ## 😄 Pronouns
 
